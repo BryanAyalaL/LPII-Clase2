@@ -1,0 +1,39 @@
+body{
+    display: flex;
+    border: 2px solid red;
+    height: 100vh;
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+}
+#Perfil{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    width: 25%;
+    height: 50%;
+    justify-content: center;
+    align-items: center;
+}
+#imagenperfil{
+    width: 50%;
+    height: 40%;
+}
+#imagenesT{
+    display: flex;
+    flex-direction: row;
+    width: 100px;
+    height: 100px;
+}
+#imagengoogle{
+    width: 50%;
+    height: 40%;
+}
+#imagenface{
+    width: 50%;
+    height: 40%;
+}
+#imagenX{
+    width: 50%;
+    height: 40%;
+}
